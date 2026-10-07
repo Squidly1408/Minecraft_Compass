@@ -43,3 +43,8 @@ python tool/make_icons.py   # needs Pillow
 - If the heading is jumpy or a "Low accuracy" warning appears, move the phone in
   a figure 8 to calibrate it, and keep it away from magnets and metal.
 - Neither Android nor iOS needs a permission for the compass heading.
+
+
+## Other
+
+There is a similar repository I made called Minecraft_Clock, Check it out here: [*Minecraft_Clock*](https://github.com/Squidly1408/Minecraft_clock/)
