@@ -1,7 +1,5 @@
 <p align="center"><img src=".github/banner.png" alt="Minecraft Compass" width="640"></p>
 
-<p align="center"><img src=".github/logo.png" alt="App icon" width="128"></p>
-
 A real, working compass for Android and iOS, drawn as the Minecraft-style pixel
 compass. It reads the phone's magnetometer and shows the frame whose needle
 points to magnetic north. The needle swings on a damped spring, so it wobbles
